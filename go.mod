@@ -1,4 +1,4 @@
-module github.com/zcalusic/sysinfo
+module github.com/RealImage/sysinfo
 
 go 1.20
 
